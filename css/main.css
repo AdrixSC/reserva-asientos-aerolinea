@@ -1,0 +1,14 @@
+.first_class {
+    background-color: purple;
+}
+
+.economic_class {
+    background-color: yellow;
+}
+
+.seats {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+}
